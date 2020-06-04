@@ -4,9 +4,13 @@ This repository consits of basic practices and codes that are used in Python's P
 The datasets used in both the notebooks have been taken directly from the internet. The data has been read directly from the url. So we dont have to download the dataset. The urls of the dataset are given below:
 
 http://bit.ly/drinksbycountry
+
 http://bit.ly/imdbratings
+
 http://bit.ly/chiporders
+
 http://bit.ly/kaggletrain
+
 http://bit.ly/uforeports
 
 The tedX dataset that has been used is present in the repository
