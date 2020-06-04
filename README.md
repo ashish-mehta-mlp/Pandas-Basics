@@ -13,4 +13,4 @@ http://bit.ly/kaggletrain
 
 http://bit.ly/uforeports
 
-The tedX dataset that has been used is present in the repository
+The tedX dataset that has been used is present in the repository.
